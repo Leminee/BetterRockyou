@@ -4,6 +4,7 @@
 
 <h5> BetterRockyou is a helpful penetration-testing wordlist that is better than <em> rockyou.txt </em> because it adapts and improves the latter, which is now out of date.   
   The following improvements have been made: 
+  
   - Added passwords from leaks in recent years  
   - Added some strong but very common passwords.  
   - Removed very small, no longer realistic passwords. </h5>   
