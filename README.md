@@ -13,9 +13,10 @@
    
   <h4> What is <i>rockyou.txt</i>? </h4>  
   
- <h5> RockYou is a company whose database was hacked in 2009. The hackers published passwords that were stored in the database in clear text on the Internet. The contents of the loot can now be found in one of the most famous and most frequently used wordlists by hackers and pentesters, namely the one mentioned above: <em> rockyou.txt </em> </h5>.   <em> brockyou.txt </em> contains almost 10 million passwords. 
+ <h5> RockYou is a company whose database was hacked in 2009. The hackers published passwords that were stored in the database in clear text on the Internet. The contents of the loot can now be found in one of the most famous and most frequently used wordlists by hackers and pentesters, namely the one mentioned above: <em> rockyou.txt </em> </h5> </br> 
+ <em> brockyou.txt </em> contains almost 10 million passwords. 
  </br>
 
-Link to Download the brockyou.txt file: https://mega.nz/file/KiQ1lYBR#lCvFMoUkBjlLbfCKMCldwsuNdX-RTN08sXmNlzvK-v0 
+Link to Download the brockyou.txt file: https://mega.nz/file/DiR0zD5T#neg8P3hk3CW2kB3xHhS8u0_Lx8XbgX8ujYUQ_tm5fw8
 
 
