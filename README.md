@@ -15,7 +15,7 @@
   
  <h5> RockYou is a company whose database was hacked in 2009. The hackers published passwords that were stored in the database in clear text on the Internet. The contents of the loot can now be found in one of the most famous and most frequently used wordlists by hackers and pentesters, namely the one mentioned above: <em> rockyou.txt </em> </h5> 
  
- <em> brockyou.txt </em> contains almost <em>15 Million</em> passwords. 
+ <em> brockyou.txt </em> contains almost <em>15 million</em> passwords. 
  </br>
 
 Link to Download the <i>brockyou.txt</i> file: https://mega.nz/file/6uwWlYaL#uR8O0-XCqlEIWtK7ir1I7PrzyOg1mtdVbaVtJC5Jwqo 
