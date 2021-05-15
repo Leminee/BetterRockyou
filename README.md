@@ -6,7 +6,7 @@
 <h5> BetterRockyou is a helpful <i>penetration-testing wordlist</i> that is better than <em> rockyou.txt </em> because it adapts and improves the latter, which is now out of date.</br>   
   The following improvements have been made: 
   
-  - Added passwords from leaks in recent years  
+  - Added passwords that are often used nowadays.
   - Added some strong but very common passwords.  
   - Removed very small, no longer realistic passwords. </h5>   
  
@@ -15,7 +15,7 @@
   
  <h5> RockYou is a company whose database was hacked in 2009. The hackers published passwords that were stored in the database in clear text on the Internet. The contents of the loot can now be found in one of the most famous and most frequently used wordlists by hackers and pentesters, namely the one mentioned above: <em> rockyou.txt </em> </h5> 
  
- <em> brockyou.txt </em> contains almost <em>15 million</em> passwords. 
+ <em> brockyou.txt </em> contains almost <em>15 Million</em> passwords. 
  </br>
 
 Link to Download the brockyou.txt file: https://mega.nz/file/6uwWlYaL#uR8O0-XCqlEIWtK7ir1I7PrzyOg1mtdVbaVtJC5Jwqo
