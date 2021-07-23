@@ -23,7 +23,7 @@
 Link to Download the <i>brockyou.txt</i> file: https://mega.nz/file/b3hHXIgR#juslDNTRj1t1wIRZhNGda0lWQJm_PxOkT79cLkU18Zg
 
 
-In addition to <i>brockyou.txt</i>, there is <i>brockyou++.txt</i>, which contains many more passwords, the latter containing over <i>70 million</i>.
+In addition to <i>brockyou.txt</i>, there is <i>brockyou++.txt</i>, which contains many more passwords, the latter containing over <i>60 million</i>.
 
 
 Link to Download the <i>brockyou++.txt</i> file: https://mega.nz/file/KihjXAhD#QL5l4dYesNrueTdnYT3t6sp_DE5-s8hswd5Y5cMUM7I
