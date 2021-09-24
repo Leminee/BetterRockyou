@@ -4,7 +4,7 @@
 <h3> What is B(etter)Rockyou? </h3>    
 
 <h5> BetterRockyou is a helpful <i>penetration-testing wordlist</i> that is better than <em> rockyou.txt </em> because it adapts and improves the latter, which is now out of date. 
-  </br>    
+  <br>    
 
   The following improvements have been made: 
   
@@ -13,7 +13,8 @@
   - Added some strong but very common passwords.  
   - Removed very small, no longer realistic passwords. </h5>   
  
- 
+ <br>
+ <br>
  
  
 The file<em> brockyou.txt </em> contains almost <em>15 million</em> passwords. 
