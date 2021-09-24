@@ -3,7 +3,7 @@
 
 <h3> What is B(etter)Rockyou? </h3>    
 
-<h5> BetterRockyou is a helpful <i>penetration-testing wordlist</i> that is better than <em> rockyou.txt </em> because it adapts and improves the latter, which is now out of date. 
+<h5> BetterRockyou is a helpful <i>penetration-testing wordlist</i> that is better than <a href="https://www.sevenlayers.com/index.php/202-pentesting-101-passwords-and-wordlists">rockyou.txt</a> because it adapts and improves the latter, which is now out of date. 
   <br>    
 
   The following improvements have been made: 
@@ -14,8 +14,6 @@
   - Removed very small, no longer realistic passwords. </h5>   
  
  <br>
- <br>
- 
  
 The file<em> brockyou.txt </em> contains almost <em>15 million</em> passwords. 
  </br>
