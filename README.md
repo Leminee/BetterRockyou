@@ -15,11 +15,11 @@
  
  <br>
  
-The file<em> brockyou.txt </em> contains almost <em>15 million</em> passwords. 
+The file<em> brockyou.txt </em> contains almost <em>12 million</em> passwords. 
  </br>
 
-Link to Download the <i>brockyou.txt</i> file: https://mega.nz/file/b3hHXIgR#juslDNTRj1t1wIRZhNGda0lWQJm_PxOkT79cLkU18Zg
+Link to Download the <i>brockyou.txt</i> file: https://mega.nz/file/cr5HGACC#ANXlTyu8sdlIUizcIX418sa1C2M4Ame_3bjxU9xXGfY
 
 In addition to <i>brockyou.txt</i>, there is <i>brockyou++.txt</i>, which contains many more passwords, the latter containing over <i>60 million</i>.
 
-Link to Download the <i>brockyou++.txt</i> file: https://mega.nz/file/KihjXAhD#QL5l4dYesNrueTdnYT3t6sp_DE5-s8hswd5Y5cMUM7I
+Link to Download the <i>brockyou++.txt</i> file: brockyou++.txt is no longer available. 
